@@ -1,0 +1,8 @@
+media_player.lr__play1:
+  name:
+  platform: sonos
+  unique_id: RINCON_B8E9378BFE3601400
+media_player.lr__play3:
+  name:
+  platform: sonos
+  unique_id: RINCON_B8E9373DB0EE01400
